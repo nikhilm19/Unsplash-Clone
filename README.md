@@ -1,6 +1,6 @@
 ## Unsplash-Clone
 
-# About
+### About
 
 A clone of Unsplash using [TailwindCss 🚀](https://tailwindcss.com/) as a part of learning Fetching Data, Refs, DOM Access in React.
 
@@ -8,21 +8,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Setup
 
-### `npm i && npm start`
+#### `npm i && npm start`
 
 Installs dependencies and Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npx tailwindcss init`
+#### `npx tailwindcss init`
 
 Create custom tailwind configuration file `tailwindcss.config.js`
 
